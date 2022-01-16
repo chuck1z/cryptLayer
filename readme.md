@@ -22,5 +22,3 @@ Grandpa Actor: I can set my birthday as my password?
 Narrator: Absolutely!
 
 Grandpa Actor: When was my birthday again?
-
-b9 2e ca aa fd 00 47 2d aa 6d 61 9b 68
